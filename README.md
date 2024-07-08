@@ -68,6 +68,6 @@ Para saber mais sobre a Radio Tatuapé FM e outros setores da Like Look Solution
 
 ### Imagens
 
-![Tela](https://raw.githubusercontent.com/AstridNielsen-lab/robotelegram.github.io/index.html/Tela.jpeg)
+![Tela](https://raw.githubusercontent.com/AstridNielsen-lab/robotelegram.github.io/main/Tela.jpeg)
 
 ![Código](https://raw.githubusercontent.com/AstridNielsen-lab/robotelegram.github.io/index.html/code.jpeg)
